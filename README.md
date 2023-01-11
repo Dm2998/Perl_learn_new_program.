@@ -1,7 +1,7 @@
 # Perl_learn_new_program.
 I think that when you learn something complicated later it is easier to start another programming language
 
-# Perl is a powerful and flexible programming language that is widely used in a variety of industries, including:
+Perl is a powerful and flexible programming language that is widely used in a variety of industries, including:
 
 Web development: Perl is often used to write web applications, scripts and websites, it's one of the most popular language for building web scraping scripts, and also for interacting with web services like JSON and XML.
 
