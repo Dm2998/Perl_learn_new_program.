@@ -7,27 +7,21 @@ I think that when you learn something complicated later it is easier to start an
     <th>Header 2</th>
   </tr>
   <tr>
-    <td>Row 1, Cell 1</td>
-    <td>Row 1, Cell 2</td>
+    <td>Web development</td>
+    <td>System administration</td>
+    <td>Networking</td>
+    <td>Data analysis and processing</td>
+    <td>Finance</td>
+    
   </tr>
   <tr>
-    <td>Row 2, Cell 1</td>
-    <td>Row 2, Cell 2</td>
+    <td>Perl is often used to write web applications, scripts and websites, it's one of the most popular language for building web scraping scripts, and also for interacting with web services like JSON and XML.</td>
+    <td>Perl is often used to write scripts for automating tasks such as server management, system monitoring, and data backups.</td>
+    <td> Perl can be used to write scripts for automating tasks such as network management, network monitoring, and network troubleshooting.</td>
+    <td> Perl is often used to process large datasets, data cleaning and analysis, it's good to work with text and CSV.</td>
+     <td>Perl is widely used in finance companies to write scripts for automating tasks such as stock market analysis and portfolio management.</td>
   </tr>
 </table>
-
-
-Perl is a powerful and flexible programming language that is widely used in a variety of industries, including:
-
-Web development: Perl is often used to write web applications, scripts and websites, it's one of the most popular language for building web scraping scripts, and also for interacting with web services like JSON and XML.
-
-System administration: Perl is often used to write scripts for automating tasks such as server management, system monitoring, and data backups.
-
-Networking: Perl can be used to write scripts for automating tasks such as network management, network monitoring, and network troubleshooting.
-
-Data analysis and processing: Perl is often used to process large datasets, data cleaning and analysis, it's good to work with text and CSV.
-
-Finance: Perl is widely used in finance companies to write scripts for automating tasks such as stock market analysis and portfolio management.
 
 To work with Perl in an industry, you should be proficient in the language and have a good understanding of the industry's specific requirements and use cases. A computer science degree, a related degree or relevant industry experience may be required for most industry job positions that involve working with Perl.
 
