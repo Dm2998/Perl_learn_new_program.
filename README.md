@@ -3,8 +3,6 @@ I think that when you learn something complicated later it is easier to start an
 
 <table>
   <tr>
-    <th>Header 1</th>
-    <th>Header 2</th>
   </tr>
   <tr>
     <td>Web development</td>
